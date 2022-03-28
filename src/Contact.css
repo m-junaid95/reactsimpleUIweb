@@ -1,0 +1,18 @@
+.submit-btnn{
+    font-weight: 500;
+    font-size: 16px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 10px 30px;
+    border-radius: 7px;
+    transition: 0.5s;
+    text-decoration: none;
+    color: #c79585;
+    border: 1px solid #c79585; 
+    background-color: #fff;
+}
+.submit-btnn:hover{
+
+    background-color: #c79585;
+    color: white;
+}
